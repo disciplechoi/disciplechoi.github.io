@@ -27,6 +27,7 @@ url: "https://disciplechoi.github.io" # the base hostname & protocol for your si
 logo: "/images/so-simple-site-logo.png"
 twitter_username: jekyllrb
 github_username:  jekyll
+google-analytics: [G-JYSQ0TDVG8]
 
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
