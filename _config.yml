@@ -33,6 +33,7 @@ google-analytics: [G-JYSQ0TDVG8]
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
