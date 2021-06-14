@@ -2,10 +2,8 @@
 
 - title: Home
   url: /
-# - title: Posts
-#   url: /posts/
-# - title: Categories
-#   url: /categories/
+- title: Cloud
+  url: /cloud/
 # - title: Tags
 #   url: /tags/
 # - title: Recipes

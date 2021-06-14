@@ -21,7 +21,7 @@
 title: Disciple Choi
 email: poopoocupcake1991@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  클라우드, Frontend
+  Cloud, Frontend
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://disciplechoi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/images/so-simple-site-logo.png"
